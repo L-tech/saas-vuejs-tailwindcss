@@ -22,4 +22,4 @@ pnpm-debug.log*
 *.sw?
 
 # TailwindCSS out.css
-/src/assets/css/out.css
+# /src/assets/css/out.css
