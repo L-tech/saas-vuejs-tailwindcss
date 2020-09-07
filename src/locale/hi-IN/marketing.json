@@ -12,10 +12,18 @@
   "product": {
     "pre-headline": "आज साइन अप करें!",
     "headline1": "Free VueJS frontend",
-    "headline2": "with TypeScript and TailwindCSS 🤩",
+    "headline2": "with TypeScript and TailwindCSS",
     "subheadline": "Use this boilerplate to build your next SaaS app, customize your theme, languages and environment variables for integrations",
-    "getStarted": "Call to action button",
+    "getStarted": "Sign up",
     "learnMore": "और अधिक जानें"
+  },
+  "features": {
+    "multi-theme": "Multi-theme",
+    "multi-theme-desc": "Using the power of TailwindCSS you can customize your own themes or use a default",
+    "multi-language": "Multi-language",
+    "multi-language-desc": "You can launch internationally by adding your language",
+    "saas-based": "SaaS based",
+    "saas-based-desc": "Marketing, app and admin pages as any SaaS application for separation of concerns"
   },
   "blog": {
     "title": "ब्लॉग",

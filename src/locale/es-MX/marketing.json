@@ -12,10 +12,18 @@
   "product": {
     "pre-headline": "¡Regístrate hoy!",
     "headline1": "Frontend VueJS gratis",
-    "headline2": "con TypeScript y TailwindCSS 🤩",
+    "headline2": "con TypeScript y TailwindCSS",
     "subheadline": "Usa esta plantilla para desarrollar tu siguiente aplicación SaaS. Personaliza el tema, los lenguajes y tus variables de ambiente",
-    "getStarted": "Botón para CTA",
+    "getStarted": "Registrarme",
     "learnMore": "Ver más"
+  },
+  "features": {
+    "multi-theme": "Multi-tema",
+    "multi-theme-desc": "Usando el poder de TailwindCSS puedes personalizar tus temas o usar los predeterminados",
+    "multi-language": "Multi-lenguage",
+    "multi-language-desc": "Puedes lanzar internacionalmente añadiendo más lenguajes",
+    "saas-based": "SaaS based",
+    "saas-based-desc": "Páginas de marketing, aplicación y de admin Marketing como cualquier aplicación SaaS para separación de componentes"
   },
   "blog": {
     "title": "Blog",
